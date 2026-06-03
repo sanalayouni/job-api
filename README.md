@@ -1,10 +1,3 @@
-<p align="center">
-<img width="500" height="500" alt="HireNest" src="https://github.com/user-attachments/assets/c3d27582-a67d-4369-b735-00e8ea95842a" />
-</p>
-
-<p align="center">
-  <b>Part of the HireNest Platform</b>
-</p>
 # Job — AI-Powered Job Matching API
 
 
