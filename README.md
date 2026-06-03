@@ -1,3 +1,4 @@
+
 # Job — AI-Powered Job Matching API
 
 > Match candidate profiles to real job listings using semantic AI embeddings.
@@ -124,7 +125,7 @@ Fetch fresh job listings from Adzuna and save locally.
   "total_jobs": 100
 }
 ```
-
+<img width="1190" height="834" alt="Capture d&#39;écran 2026-06-03 021000" src="https://github.com/user-attachments/assets/220187b7-8ce9-418f-a799-aad05f44b192" />
 ---
 
 ### `POST /jobs/match`
@@ -140,6 +141,7 @@ Match a candidate profile against all jobs in the database.
   "summary": "Optional short description"
 }
 ```
+<img width="1157" height="843" alt="Capture d&#39;écran 2026-06-03 020856" src="https://github.com/user-attachments/assets/561c613a-f1ff-48a8-97c8-ff846161fcd9" />
 
 | Field | Required | Description |
 |---|---|---|
