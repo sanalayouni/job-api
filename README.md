@@ -66,6 +66,25 @@ Before building the API, we ran a **full experiment** comparing 3 models:
 **MPNet** was selected for its superior accuracy.
 Full experiment available in `notebook/experiment.ipynb`.
 
+## Evaluation Methodology
+
+Models were evaluated using:
+
+- Top Match Score
+- Top 5 Average Score
+- Top 10 Average Score
+- Coverage
+- Processing Time
+
+The objective was to identify the embedding model providing the best balance between semantic accuracy and inference speed.
+<img width="1155" height="536" alt="Capture d&#39;écran 2026-06-03 024310" src="https://github.com/user-attachments/assets/aa914ba6-5e63-4228-888d-64643e482102" />
+<img width="622" height="440" alt="Capture d&#39;écran 2026-06-03 024417" src="https://github.com/user-attachments/assets/292a47ea-55f1-4528-a07e-5d1eee6c33ad" />
+<img width="1154" height="562" alt="Capture d&#39;écran 2026-06-03 024352" src="https://github.com/user-attachments/assets/326a95ff-aa4c-4380-aebd-f48e96fef261" />
+<img width="1157" height="559" alt="Capture d&#39;écran 2026-06-03 024336" src="https://github.com/user-attachments/assets/504cfab8-9b78-4bd3-9dd3-8e2bbbf8b5ca" />
+<img width="1154" height="525" alt="Capture d&#39;écran 2026-06-03 024323" src="https://github.com/user-attachments/assets/642b2cdd-8215-4f16-a4ae-e45f783d2ee5" />
+
+
+
 ---
 
 ## Project Structure
