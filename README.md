@@ -23,6 +23,17 @@ Instead of looking for exact words, it understands the **meaning** behind skills
 ```
 
 ---
+## Key Achievements
+
+- Built an AI-powered job matching API using FastAPI and Sentence Transformers
+- Compared 3 embedding models and selected MPNet based on experimental results
+- Achieved a top matching score of 77.9% during evaluation
+- Integrated real-world job listings through the Adzuna API
+- Implemented semantic search using transformer embeddings and cosine similarity
+- Designed a modular architecture with separate API, service, and matching layers
+- Created an evaluation notebook with performance analysis and visualizations
+
+---
 
 ## How It Works
 
