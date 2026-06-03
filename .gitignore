@@ -1,0 +1,20 @@
+# Virtual environment - never push this
+venv/
+
+# Environment variables - contains secret API keys
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional - remove if you want to push data)
+data/jobs_raw.json
